@@ -15,10 +15,7 @@ stats-*.json
 web-ext.config.ts
 
 # env (extension + server)
-.env.local
-.env.*.local
-server/.env.local
-server/.env.*.local
+.env*
 
 # Next.js backend
 server/.next
